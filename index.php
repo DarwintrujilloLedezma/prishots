@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>PriShot</title>
+	<title>PriShots</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Arcade - Architecture Template">
 	<meta name="keywords" content="arcade, architecture, onepage, creative, html">
